@@ -1,0 +1,16 @@
+{"hd":
+{ "profile": "HDprofile.json",
+  "id": "1" },
+"zixun":
+{ "profile": "ZIXUNprofile.txt",
+  "id": "2" },
+"sd":
+{ "profile": "SDprofile.txt",
+  "id": "3" },
+"avid":
+{ "profile": "AVIDprofile.txt",
+  "id": "4" },
+"apple":
+{ "profile": "APPLEprofile.txt",
+  "id": "5" },
+}

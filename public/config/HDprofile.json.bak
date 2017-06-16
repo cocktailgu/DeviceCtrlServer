@@ -1,0 +1,16 @@
+{"HD1":
+{ "code": "HD-1",
+  "hostname": "TVSHD-1",
+  "profile": "TVSHD1.txt",
+  "id": "1" },
+"HD2":
+{ "code": "HD-2",
+  "hostname": "TVSHD-2",
+  "profile": "TVSHD2.txt",
+  "id": "2" },
+"HD3":
+{ "code": "HD-3",
+  "hostname": "TVSHD-3",
+  "profile": "TVSHD3.txt",
+  "id": "3" }
+}
